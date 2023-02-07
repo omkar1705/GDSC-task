@@ -1,0 +1,46 @@
+@media only screen and (max-width: 375px)
+{ 
+    .main{
+    margin-top: 15px;
+}
+    .contain{
+flex-direction: column;
+    }
+    button{
+        left: 0px;
+        bottom: -5px;
+        margin: 8px 8px 0px 8px;
+        width: 14rem;
+    }
+    .heading{
+        margin: 0px 25px;
+    }
+    h1{
+        padding: 0rem 0rem 0rem 2rem;
+    }
+    .tagline{
+        padding-left: 2rem;
+    }
+    .moto{
+        padding-left: 2rem;
+        max-width: 242px;
+    }
+    .left{
+        border-radius: 0px 0px 0px 0px;
+        padding: 0px 35px 25px 35px;
+    }
+    .right{padding: 0px 60px 0px 61px;
+        border-radius: 0px 0px 10px 10px;
+    }
+    .p1{margin-top: -12px;
+    }
+    li{
+        margin-bottom: 4px;
+    }
+    .lefth1{
+       font-size: large;
+        padding: 0px 0px;
+    }
+    
+
+}
